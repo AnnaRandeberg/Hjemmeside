@@ -1,0 +1,40 @@
+body {
+    background-color: #90baee;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(9, 0, 2);
+}
+p {
+    text-align: center;
+   color: rgb(230, 61, 89);
+}
+
+.fakta {
+  font-weight: bold;
+  font-style: italic;  
+font size: 100px;
+}
+.overskrift {
+    margin-top: 50px;
+}
+
+
+.bilde {
+    width: 200px;
+border-radius: 50%;
+border-color: blue;
+border-width: 2px;
+border-style: solid;
+display: block;
+margin-left:auto;
+margin-right: auto;
+
+}
+
+.underoverskrift{
+text-align: center;
+color: rgb(230, 61, 89);
+}
